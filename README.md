@@ -1,2 +1,2 @@
-# RBXFPSUnlocker
+# RBLXFPSUnlocker
 FPS Unlocker for ROBLOX
